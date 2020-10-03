@@ -1,2 +1,3 @@
 # coding
-coding is my life
+c is my favourite programming language.
+It is very basic.
